@@ -1,2 +1,0 @@
-# bee-dance
-# hello-world
